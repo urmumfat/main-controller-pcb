@@ -1,4 +1,5 @@
-# [Nazwa Twojego Projektu]
+# Main Controller PCB
+# id-656
 
 **Copyright © 2026 Adam Błażejewski**
 
