@@ -1,5 +1,6 @@
-# Main Controller PCB
-# id-656
+# CERN-OHL-P Licence
+
+# Main Controler PCB
 
 **Copyright © 2026 Adam Błażejewski**
 
